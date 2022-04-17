@@ -10,7 +10,7 @@
 - [PS3 Toolbox](https://github.com/skiff/PS3-Toolbox)
 
 ## Preview
-![Design](https://execcl.com/git/t4mp.png)
+![Design](https://i.imgur.com/zGpyuUG.png)
 
 ## Need To Know
 There are some unfinished things such as,
